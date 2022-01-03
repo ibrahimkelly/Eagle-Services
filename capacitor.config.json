@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "eagle-services",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

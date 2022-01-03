@@ -1,0 +1,7 @@
+{
+  "name": "eagle-services",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
